@@ -1,0 +1,23 @@
+PENDA HEALTH CENTER’S MYSQL QUESTIONS
+1.How many visits did Kimathi Street and Pipeline medical centers have from May 2022 and September 2022?
+
+2.What was the most common diagnosis in 2022 for Tassia and Embakasi branches combined?
+
+
+3.What payor was most profitable (in absolute numbers) for penda Health in 2022? (Assume a gross average margin of 30% per visit).
+
+4.Which medical center was the least profitable (in absolute numbers) in 2022? {Assume a gross average margin of 30% per visit}.
+
+
+5.What was the average spending per visit that had a diagnosis of acute gastritis?
+
+6.At penda Health, we have a blended healthcare model where patients can get treatment physically (by visiting a medical centers) or virtually (through our call center). In 2022, how many unique patients experienced a blended healthcare approach in their healthcare journey?
+
+
+7.Calculate the Net Promoter Score (NPS) in Q3 2022. (Please note that valid NPS scores range from 0 to 10).
+
+
+8.In 2022 what proportion of visits in Penda Health were second visits? (A first visit is when a patient visits penda Health for the very first time, a second visit is when the same patient visit again I.e. a second time and so on)
+
+
+9.What percent of visit in April 2022 happened within 30 days of the preceding visit by the same patient?
